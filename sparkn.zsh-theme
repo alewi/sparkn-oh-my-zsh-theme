@@ -152,3 +152,13 @@ PROMPT="$(create_prompt)$RC "
 if [[ $IS_COMPACT == true ]]; then
 	RPROMPT="$(create_right_prompt)"
 fi
+
+
+#      ,;;:;,
+#        ;;;;;
+#       ,:;;:;    ,'=.
+#       ;:;:;' .=" ,'_\
+#       ':;:;,/  ,__:=@
+#        ';;:;  =./)_
+#         `"=\_  )_"`
+#   - Sparkn - ``'"`
