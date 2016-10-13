@@ -4,7 +4,7 @@ To learn more about Oh my ZSH!, visit [ohmyz.sh/](http://ohmyz.sh/)
 
 ## Installation
 
-To install Sparkn Theme, place the file spark.zsh-theme in the custom folder of Oh my ZSH!  
+To install Sparkn Theme, place the file sparkn.zsh-theme in the custom folder of Oh my ZSH!  
 `~/.oh-my-zsh/custom/spark.zsh-theme`
 
 To use Sparkn Theme, set it in your `.zshrc`.
